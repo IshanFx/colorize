@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "888119234614",
+    "firebase_url": "https://colorize-5a99d.firebaseio.com",
+    "project_id": "colorize-5a99d",
+    "storage_bucket": "colorize-5a99d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:888119234614:android:f77b246aa179836b",
+        "android_client_info": {
+          "package_name": "com.ishanfx.colorize"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "888119234614-ojk25ips79vbkjqi9kndl09jnkh26cei.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ishanfx.colorize",
+            "certificate_hash": "258215912BA163B995EF4863ACCD5A8FAC14126B"
+          }
+        },
+        {
+          "client_id": "888119234614-14da97e38qb5c697tngb5dnrt2uvdtm3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlcQmVLF-W-fv72f5drUpqUxf5amT3lHE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "888119234614-14da97e38qb5c697tngb5dnrt2uvdtm3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
